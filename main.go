@@ -1,11 +1,11 @@
 package main
 
 import (
-	"demo/utils"
+	"demo/utils/math"
 	"fmt"
 )
 
 func main() {
 	fmt.Println("Hello")
-	fmt.Println(utils.Add(1, 2))
+	fmt.Println(math.Add(1, 2))
 }
