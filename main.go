@@ -1,8 +1,8 @@
 package main
 
 import (
+	"demo/utils"
 	"fmt"
-	"utils"
 )
 
 func main() {
